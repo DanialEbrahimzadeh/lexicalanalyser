@@ -1,0 +1,5 @@
+1	1	digit	123.23
+1	8	keyword	int
+1	12	id	my
+1	15	id	name
+1	20	

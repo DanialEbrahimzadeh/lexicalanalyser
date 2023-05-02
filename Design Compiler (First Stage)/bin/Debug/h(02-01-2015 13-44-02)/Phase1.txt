@@ -1,0 +1,16 @@
+1	1	keyword	int
+1	5	id	main
+1	9	open parenthes
+1	10	close parenthes
+2	1	open curly bracket
+3	5	keyword	double
+3	12	id	x
+3	16	digit	3.14
+3	20	semicolon
+4	5	keyword	return
+4	12	digit	0
+4	13	semicolon
+5	1	close curly bracket
+6	1	comment
+8	1	multiplication
+8	2	division

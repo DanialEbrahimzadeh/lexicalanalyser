@@ -1,0 +1,10 @@
+int
+double
+void
+if
+else
+while
+return
+my
+name
+mohammad
